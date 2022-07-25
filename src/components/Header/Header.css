@@ -1,0 +1,30 @@
+.header {
+  display: flex;
+  min-height: 75px;
+  justify-content: space-between;
+  align-items: center;
+  padding: 27px 40px 0;
+}
+
+.header__navblock {
+  display: flex;
+  gap: 26px;
+}
+
+.header__homelink {
+  width: 147px;
+}
+
+.header__link {
+  color: #1f1f1f;
+  text-decoration: none;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 22px;
+}
+
+.header__link:last-of-type{
+    margin-right: 5px;
+}

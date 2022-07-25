@@ -1,0 +1,44 @@
+.start {
+  background: #e0f391;
+  padding: 48px 40px 40px;
+}
+
+.start__content {
+  border-top: 1px solid #6d6b67;
+  display: flex;
+  justify-content: space-between;
+  padding-top: 24px;
+}
+
+.start__text {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 28px;
+  line-height: 42px;
+  letter-spacing: 0.2px;
+  margin: 0;
+}
+
+.start__text_span {
+  font-family: 'Libre Baskerville';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 42px;
+  letter-spacing: 0.2px;
+}
+
+.start__button {
+  background: #1f1f1f;
+  color: #ffffff;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 27px;
+  letter-spacing: 0.2px;
+  width: 165px;
+  height: 45px;
+  align-self: center;
+}

@@ -3,9 +3,18 @@ import './Static.css';
 const Static = () => {
   return (
     <section className='static'>
-      <h2 className='static__title'>Built to last. Always growing.</h2>
-      <div className='static__containeer'>
-        <p className='static__subtitle'></p>
+      <h2 className='static__title'>
+        Built to last.{' '}
+        <span className='static__title_span'>Always growing.</span>
+      </h2>
+      <div className='static__container'>
+        <p className='static__subtitle'>
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
+          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
+          aliquip ex ea commodo consequat. Duis aute irure dolor in
+          reprehenderit in voluptate velit esse cillum.
+        </p>
         <div className='static__paragraphs'>
           <div className='static__paragraph'>
             <div>

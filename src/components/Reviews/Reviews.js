@@ -13,7 +13,7 @@ const Reviews = () => {
           quis nostrud.
         </p>
         <div className='reviews__containers'>
-          <div className='reviews__conainer'>
+          <div className='reviews__container'>
             <h3 className='reviews__title'>Custom</h3>
             <p className='reviews__subtitle'>
               Consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
@@ -23,7 +23,7 @@ const Reviews = () => {
               velit esse cillum dolore eu fugiat nulla pariatur.
             </p>
           </div>
-          <div>
+          <div className='reviews__container'>
             <h3 className='reviews__title'>Beautiful</h3>
             <p className='reviews__subtitle'>
               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
@@ -36,9 +36,9 @@ const Reviews = () => {
       </div>
       <div className='reviews__header'>
         <h2 className='reviews__header_title'>
-          8 years in, stronger than ever.
+          8 years in, <span className='reviews__header_title_span'>stronger than ever.</span>
         </h2>
-        <p className='reviews__header_subtitle'>More about us</p>
+        <p className='reviews__header_subtitle link'>More about us</p>
       </div>
     </section>
   );

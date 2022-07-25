@@ -1,0 +1,15 @@
+.app {
+  /* max-width: 1200px; */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.link {
+  transition: opacity 0.5s linear;
+}
+
+.link:hover {
+  opacity: 0.6;
+  cursor: pointer;
+}

@@ -1,0 +1,30 @@
+.about {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 100px;
+  padding: 0 40px;
+}
+
+.about__title {
+    max-width: 935px;
+    margin: 90px 185px 58px 0;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 72px;
+  line-height: 90px;
+  letter-spacing: 0.2px;
+}
+
+.about__caption{
+    display: flex;
+    flex-direction: row;
+    gap: 41px;
+    justify-content: end;
+    margin-bottom: 122px;
+}
+
+.about__subtitle{
+    max-width: 347px;
+    margin: 0;
+}

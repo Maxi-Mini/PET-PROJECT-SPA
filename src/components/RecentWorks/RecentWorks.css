@@ -1,0 +1,77 @@
+.recent {
+  margin-bottom: 100px;
+  padding: 0 40px;
+}
+
+.recent__title {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 52px;
+  line-height: 72px;
+  letter-spacing: 0.2px;
+}
+
+.recent__title_span {
+  font-family: 'Libre Baskerville';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 58px;
+  line-height: 72px;
+  letter-spacing: 0.2px;
+}
+
+.recent__content_box {
+  display: flex;
+  gap: 80px;
+  margin-bottom: 64px;
+  /* justify-content: center; */
+}
+
+.recent__content {
+  display: flex;
+  flex-direction: column;
+  gap: 64px;
+}
+
+.recent__image-title {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 23px;
+  line-height: 34px;
+  letter-spacing: 0.2px;
+  border-top: 1px solid #000;
+  margin: 0;
+  padding: 9px 0 3px;
+}
+
+.recent__image-subtitle {
+  font-family: 'Libre Baskerville';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 24px;
+  letter-spacing: 0.4px;
+  color: #6d6b67;
+  margin: 0;
+}
+
+.recent__image {
+  margin-bottom: 20px;
+}
+
+.recent__button {
+  background: #1f1f1f;
+  border-radius: 0px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 27px;
+  text-align: center;
+  letter-spacing: 0.2px;
+  color: #ffffff;
+  width: 166px;
+    height: 45px;
+}
