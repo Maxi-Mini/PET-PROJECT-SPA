@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/pet-project-spa/static/css/main.f6428974.css",
+    "main.js": "/pet-project-spa/static/js/main.849a9cd8.js",
+    "static/js/787.463a4066.chunk.js": "/pet-project-spa/static/js/787.463a4066.chunk.js",
+    "static/media/inter-900.woff": "/pet-project-spa/static/media/inter-900.6f3f8d238cb5ec6a7884.woff",
+    "static/media/inter-400.woff": "/pet-project-spa/static/media/inter-400.a252fc44cf11fd602874.woff",
+    "static/media/inter-500.woff": "/pet-project-spa/static/media/inter-500.5431f9f71fc665274a10.woff",
+    "static/media/inter-900.woff2": "/pet-project-spa/static/media/inter-900.769f5bb9abd2e78ec82b.woff2",
+    "static/media/gin.svg": "/pet-project-spa/static/media/gin.af9a35a230f3bb552ad831ab18897928.svg",
+    "static/media/inter-400.woff2": "/pet-project-spa/static/media/inter-400.7c370fde6764d889efe6.woff2",
+    "static/media/inter-500.woff2": "/pet-project-spa/static/media/inter-500.35a67661c363d629f457.woff2",
+    "static/media/skincare.svg": "/pet-project-spa/static/media/skincare.6acd41e96ba3325389f075e13ce95a39.svg",
+    "static/media/skinclub.svg": "/pet-project-spa/static/media/skinclub.0df6feafc80fe27bd1f6b2d860cb667a.svg",
+    "static/media/wine.svg": "/pet-project-spa/static/media/wine.c6eb61423124f41ef31197896b110bae.svg",
+    "static/media/gummies.svg": "/pet-project-spa/static/media/gummies.cb01f4f4874874275e5bf5d43a17decc.svg",
+    "static/media/nowintech.svg": "/pet-project-spa/static/media/nowintech.45d5c6fa637cc76d36abb52b87c69b54.svg",
+    "static/media/coffee.svg": "/pet-project-spa/static/media/coffee.dbe44cc275d0bcbf214076f44603521b.svg",
+    "static/media/footer.svg": "/pet-project-spa/static/media/footer.4230e2259da9e2b86723cea63fd3f500.svg",
+    "static/media/header.svg": "/pet-project-spa/static/media/header.694dd5f5d011be00241fb195fee29a62.svg",
+    "static/media/carded.svg": "/pet-project-spa/static/media/carded.df13b54d6a15b8c1c21465a300d0b2fc.svg",
+    "static/media/focusfox.svg": "/pet-project-spa/static/media/focusfox.3c20643aeb697948232e76b4d6d0cbe8.svg",
+    "static/media/optimer.svg": "/pet-project-spa/static/media/optimer.9be397b5aecb22fd301879b11c2a913d.svg",
+    "static/media/emerald.svg": "/pet-project-spa/static/media/emerald.343dd2dff26721e207ef4e7c88933221.svg",
+    "static/media/etro.svg": "/pet-project-spa/static/media/etro.4c6a883f313f0bac5fef403103d4e0ef.svg",
+    "index.html": "/pet-project-spa/index.html",
+    "main.f6428974.css.map": "/pet-project-spa/static/css/main.f6428974.css.map",
+    "main.849a9cd8.js.map": "/pet-project-spa/static/js/main.849a9cd8.js.map",
+    "787.463a4066.chunk.js.map": "/pet-project-spa/static/js/787.463a4066.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f6428974.css",
+    "static/js/main.849a9cd8.js"
+  ]
+}
