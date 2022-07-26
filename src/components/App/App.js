@@ -12,12 +12,7 @@ import Start from '../Start/Start';
 const App = () => {
   return (
     <div className='app'>
-      <Routes>
-        <Route
-          exact
-          path='/'
-          element={
-            <>
+   
               <Header />
               <AboutUs />
               <RecentWorks />
@@ -26,10 +21,7 @@ const App = () => {
               <Clients/>
               <Start/>
               <Footer />
-            </>
-          }
-        />
-      </Routes>
+      
     </div>
   );
 };
